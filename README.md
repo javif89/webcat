@@ -56,7 +56,7 @@ You can refer to the LOLCODE 1.2 language spec [here](https://github.com/justinm
 * Put your files in the LOLCODE directory where webcat is installed, make sure they have the .lol extension even if they don't contain any LOLCODE. Eventually WebCat will support serving plain HTML files
 * You should have an index.lol file which is served as the home page
 
-### Any other file you add can be accesed by going to localhost:8000/filename (do not put .lol at the end or it won't work
+### Any other file you add can be accesed by going to localhost:8000/filename (do not put .lol at the end or it won't work)
 For example if you have a file named admin.lol you can access it by going to localhost:8000/admin on your browser.
 
 # WebCat is still in a very early stage
