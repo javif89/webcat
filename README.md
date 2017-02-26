@@ -3,7 +3,7 @@ A web server that runs [LOLCODE](http://lolcode.org/)
 
 # About
 Tired of writing PHP, Python, or Javascript? Do you want to have some fun while writing your code? WebCat is the web server for you!<br/>
-Webcat is powered by [Justin Meza's](http://justinmeza.com/) interpreter [lci](https://github.com/justinmeza/lci)
+Webcat is powered by [Justin Meza's](http://justinmeza.com/) LOLCODE interpreter [lci](https://github.com/justinmeza/lci)
 
 # What does WebCat do?
  Webcat renders the lolcode inside .lol files
