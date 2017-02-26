@@ -62,4 +62,4 @@ For example if you have a file named admin.lol you can access it by going to loc
 # WebCat is still in a very early stage
 I've spent a total of maybe 3 hours on this so far so a lot of features might not be there.
 # Contributing
-If you want to contribute make sure to submit a pull request if you want to help me make the web powered by LOLCODE. Also, I will be writing a detailed description of the inner workings of WebCat in the [wiki](https://github.com/javif89/webcat/wiki) so it's easier to understand and contribute to the project so make sure to check that out.
+If you want to contribute make sure to submit a pull request if you want to help me make a little part of the web powered by LOLCODE. Also, I will be writing a detailed description of the inner workings of WebCat in the [wiki](https://github.com/javif89/webcat/wiki) so it's easier to understand and contribute to the project so make sure to check that out.
