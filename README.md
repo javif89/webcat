@@ -17,11 +17,11 @@ Webcat is powered by [Justin Meza's](http://justinmeza.com/) LOLCODE interpreter
 </head>
 <body>
     <h1>
-    <lolxd>
-      HAI 1.2
-      VISIBLE "HELLO VISITOR"
-      KTHXBYE
-    </lolxd>
+	    <lolxd>
+	      HAI 1.2
+	      VISIBLE "HELLO VISITOR"
+	      KTHXBYE
+	    </lolxd>
     </h1>
 </body>
 </html>
@@ -34,7 +34,7 @@ Webcat is powered by [Justin Meza's](http://justinmeza.com/) LOLCODE interpreter
 	<title>LOLCODE POWRD WEBZITE!</title>
 </head>
 <body>
-<h1>HELLO VISITOR</h1>
+	<h1>HELLO VISITOR</h1>
 </body>
 </html>
 ```
