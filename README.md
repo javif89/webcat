@@ -49,7 +49,7 @@ You can refer to the LOLCODE 1.2 language spec [here](https://github.com/justinm
 #### After you have those you can just follow these steps
 * Clone this repository
 * Go into the WebCat folder
-* Run webcat.py with either `python webcat.py` if you set up python3 correctly on windows or `python3 webcat.py` on linux
+* Run webcat.py with either `python webcat.py` if you set up python3 correctly on windows or `python3 webcat.py` on linux. You should see the server starting up in your command line
 * Go to localhost:8000 on your web browser, if everything is working you should see a webpage
 
 # Using WebCat
@@ -60,6 +60,6 @@ You can refer to the LOLCODE 1.2 language spec [here](https://github.com/justinm
 For example if you have a file named admin.lol you can access it by going to localhost:8000/admin on your browser.
 
 # WebCat is still in a very early stage
-I spent a total of maybe 3 hours on this so far so a lot of features might not be there.
+I've spent a total of maybe 3 hours on this so far so a lot of features might not be there.
 # Contributing
 If you want to contribute make sure to submit a pull request if you want to help me make the web powered by LOLCODE. Also, I will be writing a detailed description of the inner workings of WebCat in the [wiki](https://github.com/javif89/webcat/wiki) so it's easier to understand and contribute to the project so make sure to check that out.
