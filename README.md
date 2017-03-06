@@ -60,6 +60,9 @@ You can refer to the LOLCODE 1.2 language spec [here](https://github.com/justinm
 For example if you have a file named admin.lol you can access it by going to localhost:8000/admin on your browser.
 
 # WebCat is still in a very early stage
-I've spent a total of maybe 3 hours on this so far so a lot of features might not be there.
+I've spent a total of maybe 3 hours on this so far so a lot of features might not be there. However I have some features I plan to add whenever I have the inspiration to work on this in order to make it a little more robust, even though it will never be used in a serious manner. Some of these features are:
+* Handling POST data
+* Saving to files (Would require some modification to the interpreter)
+If you want to help add these features just submit a pull request! I would love some help!
 # Contributing
 If you want to contribute make sure to submit a pull request if you want to help me make a little part of the web powered by LOLCODE. Also, I will be writing a detailed description of the inner workings of WebCat in the [developer wiki](http://javierfeliz.com/webcat/developer/) so it's easier to understand and contribute to the project so make sure to check that out.
